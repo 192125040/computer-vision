@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-image = cv2.imread("C:/Users/susri/OneDrive/Desktop/COMPUTER VISION/draw village.jpg")
+image = cv2.imread("C:/COMPUTER VISION/")
 x = 100 
 y = 100 
 dx = 50  
